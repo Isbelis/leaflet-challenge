@@ -4,16 +4,19 @@ In this challenge, the following information was provided as background: The Uni
 The USGS was interested in building a new set of tools that would allow them to visualize their earthquake data. They collected a massive amount of data from all over the world each day, but they lacked a meaningful way of displaying it. In this challenge, you were tasked with developing a way to visualize USGS data that would allow them to better educate the public and other government organizations (and hopefully secure more funding) on issues facing our planet.
 # Instructions
 The instructions for this challenge were broken into two parts:
-- Part 1: Created the Earthquake Visualization
-- Part 2: Gathered and Plotted More Data
+- **Part 1:** Created the Earthquake Visualization
+- **Part 2:** Gathered and Plotted More Data
   
 ## Part 1: Created the Earthquake Visualization
 The first task was to visualize an earthquake dataset. The steps completed were:
 ### 1. Got the dataset:
 - The USGS provided earthquake data in a number of different formats, updated every 5 minutes. You visited the USGS GeoJSON Feed page and chose a dataset to visualize. The following image was an example screenshot of what appeared when visiting this link:
-![image](https://github.com/user-attachments/assets/0febd846-de41-406f-b276-35c2c4552b00)
+![image](https://github.com/user-attachments/assets/65f688bf-c98a-436b-b8db-0fbb2fae3628)
+
+
 When you clicked a dataset (such as "All Earthquakes from the Past 7 Days"), you were given a JSON representation of that data. You used the URL of this JSON to pull in the data for the visualization. The following image was a sampling of earthquake data in JSON format:
-![image](https://github.com/user-attachments/assets/16efe040-10b1-4e20-9918-4840cca23cdb)
+![image](https://github.com/user-attachments/assets/7533470b-87f5-4a0b-9db7-9d023c270654)
+
  
 ### 2. Imported and visualized the data:
 - Using Leaflet, you created a map that plotted all the earthquakes from the dataset based on their longitude and latitude.
@@ -25,7 +28,8 @@ When you clicked a dataset (such as "All Earthquakes from the Past 7 Days"), you
 
 ## Part 2: Gathered and Plot More Data 
 In this part, a second dataset was plotted on the map to illustrate the relationship between tectonic plates and seismic activity. The dataset was pulled in and visualized alongside the original data. Data on tectonic plates could be found at GitHub - Tectonic Plates.
-
+The following image was an example screenshot of the final product:
+![image](https://github.com/user-attachments/assets/147d2013-5598-45a0-a06e-02a90edb09c4)
 
 ### Tasks performed:
 - Plotted the tectonic plates dataset on the map in addition to the earthquakes.
@@ -34,13 +38,14 @@ In this part, a second dataset was plotted on the map to illustrate the relation
 - Added layer controls to the map.
 
 ## Folder and Files
-- Leaflet-Part-1: Contained a static folder inside which had a css folder for styles and a js folder with a logic.js file (JavaScript code). This folder also contained the Mapbox API key for part 1 of this challenge.
-- Leaflet-Part-2: Similar to Part 1, this folder contained a static folder with css and js folders, including the logic.js file and the Mapbox API key for part 2 of this challenge.
-- Output: Contained images and videos about the map visualizations from part 1 and part 2.
+- **Leaflet-Part-1:** Contained a static folder inside which had a css folder for styles and a js folder with a logic.js file (JavaScript code). This folder also contained the Mapbox API key for part 1 of this challenge.
+- **Leaflet-Part-2:** Similar to Part 1, this folder contained a static folder with css and js folders, including the logic.js file and the Mapbox API key for part 2 of this challenge.
+- **Output:** Contained images and videos about the map visualizations from part 1 and part 2.
   
 ## Free Static Page
 You can view the project on GitHub Pages at the following link:
-My link 
+- **Leaflet-Part-1:** https://isbelis.github.io/leaflet-challenge/Leaflet-Part-1/index.html
+- **Leaflet-Part-2:** https://isbelis.github.io/leaflet-challenge/Leaflet-Part-2/index.html
 
 
 # References
