@@ -11,9 +11,11 @@ The instructions for this challenge were broken into two parts:
 The first task was to visualize an earthquake dataset. The steps completed were:
 ### 1. Got the dataset:
 - The USGS provided earthquake data in a number of different formats, updated every 5 minutes. You visited the USGS GeoJSON Feed page and chose a dataset to visualize. The following image was an example screenshot of what appeared when visiting this link:
-![image](https://github.com/user-attachments/assets/0febd846-de41-406f-b276-35c2c4552b00)
+![image](https://github.com/user-attachments/assets/e406f25e-25a1-4831-b5c5-bb6a15176fd8)
+
 When you clicked a dataset (such as "All Earthquakes from the Past 7 Days"), you were given a JSON representation of that data. You used the URL of this JSON to pull in the data for the visualization. The following image was a sampling of earthquake data in JSON format:
-![image](https://github.com/user-attachments/assets/16efe040-10b1-4e20-9918-4840cca23cdb)
+![image](https://github.com/user-attachments/assets/7533470b-87f5-4a0b-9db7-9d023c270654)
+
  
 ### 2. Imported and visualized the data:
 - Using Leaflet, you created a map that plotted all the earthquakes from the dataset based on their longitude and latitude.
