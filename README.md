@@ -44,7 +44,8 @@ The following image was an example screenshot of the final product:
   
 ## Free Static Page
 You can view the project on GitHub Pages at the following link:
-My link 
+- https://isbelis.github.io/leaflet-challenge/Leaflet-Part-1/index.html
+- https://isbelis.github.io/leaflet-challenge/Leaflet-Part-2/index.html
 
 
 # References
