@@ -38,14 +38,14 @@ The following image was an example screenshot of the final product:
 - Added layer controls to the map.
 
 ## Folder and Files
-**-Leaflet-Part-1:** Contained a static folder inside which had a css folder for styles and a js folder with a logic.js file (JavaScript code). This folder also contained the Mapbox API key for part 1 of this challenge.
-**-Leaflet-Part-2:** Similar to Part 1, this folder contained a static folder with css and js folders, including the logic.js file and the Mapbox API key for part 2 of this challenge.
-**-Output:** Contained images and videos about the map visualizations from part 1 and part 2.
+- **Leaflet-Part-1:** Contained a static folder inside which had a css folder for styles and a js folder with a logic.js file (JavaScript code). This folder also contained the Mapbox API key for part 1 of this challenge.
+- **Leaflet-Part-2:** Similar to Part 1, this folder contained a static folder with css and js folders, including the logic.js file and the Mapbox API key for part 2 of this challenge.
+- **Output:** Contained images and videos about the map visualizations from part 1 and part 2.
   
 ## Free Static Page
 You can view the project on GitHub Pages at the following link:
--**Leaflet-Part-1:** https://isbelis.github.io/leaflet-challenge/Leaflet-Part-1/index.html
--**Leaflet-Part-1:** https://isbelis.github.io/leaflet-challenge/Leaflet-Part-2/index.html
+- **Leaflet-Part-1:** https://isbelis.github.io/leaflet-challenge/Leaflet-Part-1/index.html
+- **Leaflet-Part-1:** https://isbelis.github.io/leaflet-challenge/Leaflet-Part-2/index.html
 
 
 # References
