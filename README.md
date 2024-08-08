@@ -11,7 +11,8 @@ The instructions for this challenge were broken into two parts:
 The first task was to visualize an earthquake dataset. The steps completed were:
 ### 1. Got the dataset:
 - The USGS provided earthquake data in a number of different formats, updated every 5 minutes. You visited the USGS GeoJSON Feed page and chose a dataset to visualize. The following image was an example screenshot of what appeared when visiting this link:
-![image](https://github.com/user-attachments/assets/e406f25e-25a1-4831-b5c5-bb6a15176fd8)
+![image](https://github.com/user-attachments/assets/65f688bf-c98a-436b-b8db-0fbb2fae3628)
+
 
 When you clicked a dataset (such as "All Earthquakes from the Past 7 Days"), you were given a JSON representation of that data. You used the URL of this JSON to pull in the data for the visualization. The following image was a sampling of earthquake data in JSON format:
 ![image](https://github.com/user-attachments/assets/7533470b-87f5-4a0b-9db7-9d023c270654)
@@ -27,7 +28,8 @@ When you clicked a dataset (such as "All Earthquakes from the Past 7 Days"), you
 
 ## Part 2: Gathered and Plot More Data 
 In this part, a second dataset was plotted on the map to illustrate the relationship between tectonic plates and seismic activity. The dataset was pulled in and visualized alongside the original data. Data on tectonic plates could be found at GitHub - Tectonic Plates.
-
+The following image was an example screenshot of the final product:
+![image](https://github.com/user-attachments/assets/147d2013-5598-45a0-a06e-02a90edb09c4)
 
 ### Tasks performed:
 - Plotted the tectonic plates dataset on the map in addition to the earthquakes.
