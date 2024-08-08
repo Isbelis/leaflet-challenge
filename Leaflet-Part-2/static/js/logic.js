@@ -121,8 +121,7 @@ function createMap(data, geo_data) {
   myMap.addLayer(street);
   myMap.addLayer(markers);
   myMap.addLayer(geo_layer);
-  myMap.addLayer(heatLayer);
-  myMap.addLayer(circleLayer);
+ 
 
   // Add the Layer Control filter + legends as needed
   L.control.layers(baseLayers, overlayLayers).addTo(myMap);
