@@ -4,8 +4,8 @@ In this challenge, the following information was provided as background: The Uni
 The USGS was interested in building a new set of tools that would allow them to visualize their earthquake data. They collected a massive amount of data from all over the world each day, but they lacked a meaningful way of displaying it. In this challenge, you were tasked with developing a way to visualize USGS data that would allow them to better educate the public and other government organizations (and hopefully secure more funding) on issues facing our planet.
 # Instructions
 The instructions for this challenge were broken into two parts:
-- Part 1: Created the Earthquake Visualization
-- Part 2: Gathered and Plotted More Data
+**- Part 1:** Created the Earthquake Visualization
+**- Part 2:** Gathered and Plotted More Data
   
 ## Part 1: Created the Earthquake Visualization
 The first task was to visualize an earthquake dataset. The steps completed were:
@@ -38,14 +38,14 @@ The following image was an example screenshot of the final product:
 - Added layer controls to the map.
 
 ## Folder and Files
-- Leaflet-Part-1: Contained a static folder inside which had a css folder for styles and a js folder with a logic.js file (JavaScript code). This folder also contained the Mapbox API key for part 1 of this challenge.
-- Leaflet-Part-2: Similar to Part 1, this folder contained a static folder with css and js folders, including the logic.js file and the Mapbox API key for part 2 of this challenge.
-- Output: Contained images and videos about the map visualizations from part 1 and part 2.
+**-Leaflet-Part-1:** Contained a static folder inside which had a css folder for styles and a js folder with a logic.js file (JavaScript code). This folder also contained the Mapbox API key for part 1 of this challenge.
+**-Leaflet-Part-2:** Similar to Part 1, this folder contained a static folder with css and js folders, including the logic.js file and the Mapbox API key for part 2 of this challenge.
+**-Output:** Contained images and videos about the map visualizations from part 1 and part 2.
   
 ## Free Static Page
 You can view the project on GitHub Pages at the following link:
-- https://isbelis.github.io/leaflet-challenge/Leaflet-Part-1/index.html
-- https://isbelis.github.io/leaflet-challenge/Leaflet-Part-2/index.html
+-**Leaflet-Part-1:** https://isbelis.github.io/leaflet-challenge/Leaflet-Part-1/index.html
+-**Leaflet-Part-1:** https://isbelis.github.io/leaflet-challenge/Leaflet-Part-2/index.html
 
 
 # References
